@@ -1,0 +1,16 @@
+.ta {
+	background-color: #ffc;
+	border: 1px solid orange;
+	border-left-width: 0.5em;
+	margin: 0.5em 0px;
+	padding: 0.2em 0.5em;
+	font-family: "Courier New", mononspace;
+	font-size: 0.9em;
+}
+
+article {
+	border: 1px solid black;
+	background-color: #e8e7e6;
+	margin: 1rem 0rem;
+	padding: 0.5rem;
+}

@@ -1,0 +1,9 @@
+.ta {
+	border:1px solid orange;
+	border-left-width:5px;
+	margin:0.5em;
+	padding:0.2em 0.5em;
+	background-color:#ffc;
+	font-family:"Courier New", monospace;
+	font-size:0.9rem;
+}
